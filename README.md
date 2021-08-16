@@ -1,4 +1,4 @@
-![photo-1542762933-ab3502717ce7](https://user-images.githubusercontent.com/82215146/129534292-445b2734-5c1f-477e-b2bf-f0140479e4f7.jpg)
+![memory_game](https://user-images.githubusercontent.com/82215146/129535854-e4d1cb00-6535-4014-bbe7-b2135d477a38.jpg)
 # Memory_Game
 記憶ゲームです。
 ・言語 HTML CSS Javascript
